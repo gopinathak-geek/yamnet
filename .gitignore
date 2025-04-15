@@ -1,0 +1,42 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Log files
+*.log
+
+# Mac system files
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Ignore temp files
+*.bak
+*.swp
+
+# Ignore audio outputs
+*.wav
+*.mp3
+
+# Ignore model artifacts (optional, comment if you want to version them)
+*.pt
+*.pth
+
+# Ignore saved intermediate files
+temp.wav
