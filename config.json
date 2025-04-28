@@ -1,0 +1,8 @@
+{
+    "MODEL_PATH": "/Users/gopinathak/myspace/projects/yamnet/models/yamnet",
+    "SR": 16000,
+    "CHUNK_DURATION": 1,
+    "CRY_INDICES": [19,20],
+    "CRY_CONFIRMATION_COUNT": 15
+}
+  
